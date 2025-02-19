@@ -70,5 +70,31 @@ kelbow_visualizer → Determinação do número ideal de clusters com o método 
 SilhouetteVisualizer e silhouette_score → Avaliação da coesão dos clusters  
 davies_bouldin_score e calinski_harabasz_score → Métricas de qualidade dos agrupamentos  
 
+# 🛒 Dashboard de Métricas RFV, Faturamento e Produtos em E-commerce (Power BI)
+
+No dashboard, utilizamos uma abordagem diferente para a segmentação de clientes, baseada no modelo RFV (Recência, Frequência e Valor), atribuímos scores individuais para cada uma dessas dimensões.  
+
+Com base nesses scores, os clientes foram agrupados em segmentos estratégicos, permitindo uma análise mais precisa do comportamento e engajamento. Os segmentos definidos são:  
+
+🔹 Champions – Clientes altamente engajados, com compras recentes e frequentes, além de alto valor gasto. São os melhores clientes.
+
+🔹 Loyal – Clientes fiéis que compram regularmente e demonstram alto envolvimento com a marca.
+
+🔹 Potential Loyalist – Novos clientes com alto potencial de se tornarem fiéis, mas que ainda não atingiram a frequência dos Loyal.
+
+🔹 New Customers – Clientes que realizaram a primeira compra recentemente e podem precisar de incentivo para novas compras.
+
+🔹 Promising – Clientes que compraram algumas vezes e têm potencial de crescimento.
+
+🔹 Need Attention – Clientes que costumavam comprar com frequência, mas reduziram o ritmo e precisam de ações para reengajamento.
+
+🔹 Disengaged – Clientes que compraram no passado, mas estão demonstrando sinais de abandono.
+
+🔹 Cannot Lose Them – Clientes valiosos que costumavam gastar bastante, mas não compram há um bom tempo. São críticos para recuperação.
+
+🔹 Inactive – Clientes que não compram há muito tempo e apresentam baixo potencial de reativação.
+
+Essa segmentação RFV permite criar estratégias personalizadas para cada grupo, otimizando campanhas de marketing, retenção e reativação de clientes de forma mais eficiente.
+
 ## 📬 Contato
 Se tiver dúvidas ou sugestões, entre em contato!
