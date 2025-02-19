@@ -72,7 +72,7 @@ davies_bouldin_score e calinski_harabasz_score → Métricas de qualidade dos ag
 
 # 🛒 Dashboard de Métricas RFV, Faturamento e Produtos em E-commerce (Power BI)
 
-No dashboard, utilizamos uma abordagem diferente para a segmentação de clientes, baseada no modelo RFV (Recência, Frequência e Valor), atribuímos scores individuais para cada uma dessas dimensões.  
+No dashboard, apresentamos alguns dados sobre faturamento e produtos, mas o foco principal são as métricas RFV a qual utilizamos uma abordagem diferente para a segmentação de clientes, baseada no modelo RFV (Recência, Frequência e Valor), atribuímos scores individuais para cada uma dessas dimensões.  
 
 Com base nesses scores, os clientes foram agrupados em segmentos estratégicos, permitindo uma análise mais precisa do comportamento e engajamento. Os segmentos definidos são:  
 
