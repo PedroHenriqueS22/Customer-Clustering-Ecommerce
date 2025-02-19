@@ -5,7 +5,7 @@ Uma empresa de e-commerce deseja entender melhor o comportamento de seus cliente
 
 Para isso, a empresa disponibilizou um conjunto de dados em formato CSV contendo informações sobre clientes, produtos e transações realizadas entre 2010 e 2011.
 
-O objetivo deste projeto é:
+O objetivo deste projeto é:  
 ✅ Identificar perfis de clientes com base no comportamento de compra  
 ✅ Detectar padrões e características em comum entre os clientes  
 ✅ Realizar clusterização para segmentação da base de clientes  
