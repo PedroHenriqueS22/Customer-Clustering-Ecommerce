@@ -70,7 +70,5 @@ kelbow_visualizer → Determinação do número ideal de clusters com o método 
 SilhouetteVisualizer e silhouette_score → Avaliação da coesão dos clusters  
 davies_bouldin_score e calinski_harabasz_score → Métricas de qualidade dos agrupamentos  
 
-Essa segmentação RFV permite criar estratégias personalizadas para cada grupo, otimizando campanhas de marketing, retenção e reativação de clientes de forma mais eficiente.
-
 ## 📬 Contato
 Se tiver dúvidas ou sugestões, entre em contato!
